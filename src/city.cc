@@ -28,6 +28,7 @@
 // compromising on hash quality.
 
 //#include "config.h"
+#include <config.h>
 #include <city.h>
 
 #include <algorithm>

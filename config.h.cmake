@@ -1,0 +1,2 @@
+#define HAVE_BUILTIN_EXPECT 1
+#cmakedefine WORDS_BIGENDIAN 1
